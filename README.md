@@ -1,4 +1,4 @@
-#Arduino tft display project
+# Arduino tft display project
 
 ## Requirements
 * Arduino UNO board
